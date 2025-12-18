@@ -7,7 +7,7 @@ A Python tool that creates stacked versions of osu! beatmaps where all hit objec
 
 ## Usage
 
-1. Launch the executable or script
+1. Launch the executable or script from [releases](https://github.com/FanyaOff/OsuStacker/releases)
 2. Configure settings (X, Y coordinates and suffix or tap enter to use defaults and stack it in center)
 3. Select a beatmap in osu, start playing and exit from the map to detect what map are you playing (yep, i use window name to detect osu betmap)
 4. Choose mapper if multiple versions exist
