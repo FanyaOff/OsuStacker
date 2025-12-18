@@ -2,6 +2,8 @@
 
 A Python tool that creates stacked versions of osu! beatmaps where all hit objects are placed at a single coordinate position. Console gui writed by llm :D
 
+<img width="1459" height="764" alt="image" src="https://github.com/user-attachments/assets/708329aa-4c90-4c9e-a9fa-33dc42deb706" />
+
 
 ## Usage
 
