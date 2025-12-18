@@ -29,7 +29,7 @@ A Python tool that creates stacked versions of osu! beatmaps where all hit objec
 
 ### Compiled Version
 
-1. Download `osu_stacker.exe`
+1. Download `stacker.exe`
 2. Run the executable
 3. No Python installation required
 
@@ -37,4 +37,4 @@ A Python tool that creates stacked versions of osu! beatmaps where all hit objec
 
 1. Install Python 3.6+
 2. Install dependencies: `pip install psutil`
-3. Run: `python osu_stacker.py`
+3. Run: `python stacker.py`
